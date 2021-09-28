@@ -1,0 +1,60 @@
+/* my first css*/
+html{
+    background-color: #eeebebe7;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style: groove;
+
+
+
+}
+h1{
+    font-family:Bradley Hand ITC;
+  
+    text-align: center;
+    color: rgb(153, 157, 161);
+}
+img {
+   width: 50%;
+   margin:auto;
+   display: block;
+  }
+p{
+   text-align: justify;
+   display: block;
+   color: rgb(107, 107, 106);
+   margin-left: 1mm;
+   margin-right: 1mm;
+
+   
+}
+
+
+ul{
+    list-style: none;
+    display:flex;
+    flex-direction:row;
+    font-weight: 150;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+
+}
+
+
+li{
+    padding: 5px;
+    display:inline-block;
+  
+   
+}
+footer{
+    margin-top: 90mm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+    margin-left: 2mm;
+}
+em{
+    margin-top: 20mm;
+}
+
+
