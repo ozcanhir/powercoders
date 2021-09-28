@@ -1,0 +1,14 @@
+row back (0)
+row with the fox to the other side (1)
+row with the goose to the other side (2)
+row with the sack of corn to the other side (3)
+Only instruction (2) can be executed without loosing or the goose, or the corn and then we are stuck ... or not?
+
+It is not prohibited to row back with an item. So supplementary instructions are:
+
+row back with the fox (4)
+row back with the goose (5)
+row back with the sack of corn (6)
+So the sequence of instructions to solve this problem is:
+
+(2) – (0) – (1) – (5) – (3) – (0) – (2)
