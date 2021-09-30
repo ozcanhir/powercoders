@@ -1,0 +1,16 @@
+Start 
+   Initialize name as string 
+   initialize greeting as string="Hello"
+   Promp "what is your name?" as name
+
+   Check if leng name is as least 2 character and does not start wit a number, no spezial charakter
+
+   if length of name > 1 and name[0] is not a rumber and name does not contain special charakter
+   which are not in allewedSpecialchars
+   Then print greeting + name
+   Else 
+       Promp "Please insert a nama witout special charakters and number  at the beginning 
+        "
+     go back validation
+
+End 

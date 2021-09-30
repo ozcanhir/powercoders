@@ -1,0 +1,15 @@
+Start
+     initialize Autor as string
+     initialize Quotes as string 
+     
+     prompt " Name of Autor" as Autor 
+
+    Check if length of Autor is aleast two 
+        prompt  "Quotes " as Qutes
+        Else 
+        prompt " Input is false, write a right name " as Autor
+        go back validation 
+      
+
+     print out Author  "says " + Quotes 
+End 

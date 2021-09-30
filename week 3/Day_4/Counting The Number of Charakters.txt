@@ -1,0 +1,12 @@
+Start
+    Initialize userInput as string
+
+
+    Initialize number variable 
+
+    Prompt " Input string " as userInput 
+         get length of userInput, and save in number  
+
+    
+    print userInput + "length of the string is " number 
+End 

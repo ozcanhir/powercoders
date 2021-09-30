@@ -1,0 +1,26 @@
+Start
+   initialize noun as string
+   initialize verb as string
+   initialize adverb as string
+   initialize adjective as string
+   initialize user as as string
+   
+   prompt " Welcome to the Özcan's MadLib"
+   
+   Prompt " Please insert noun" as noun 
+       check if input value is noun
+       Then print true 
+    Prompt " Please insert verb" as verb 
+       check if input value is verb
+       Then print true 
+    Prompt " Please insert adverb" as adverb 
+       check if input value is adverb
+       Then print true 
+    Prompt " Please insert adjective" as adjective 
+       check if input value is adjective
+       Then print true 
+    Else 
+        prompt " Please try again " 
+       
+    print "Thanks for playing!"
+End
